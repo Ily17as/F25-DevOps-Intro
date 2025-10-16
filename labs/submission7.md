@@ -163,3 +163,4 @@ Thu Oct 16 10:45:49 RTZ 2025 - ✅ OK: States synchronized
 - **Synced** ↔ hashes/manifests match; **OutOfSync** ↔ mismatch detected; auto‑sync can reconcile to desired.
 - The scripts here emulate that pattern at file level: diff via checksum, then reconcile to restore sync.
 
+
