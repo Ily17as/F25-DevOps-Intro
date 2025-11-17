@@ -14,7 +14,7 @@ docker run -d --name ipfs_node `
   -p 8080:8080 `
   -p 5001:5001 `
   ipfs/kubo:latest
-```
+``` 
 
 The node successfully started and exposes:
 - **Swarm port:** 4001  
